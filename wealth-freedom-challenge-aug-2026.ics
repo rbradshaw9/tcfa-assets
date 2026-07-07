@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TCFA//Wealth Freedom Challenge//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:wealth-freedom-challenge-aug-2026@thecashflowacademy.com
+DTSTAMP:20260707T000000Z
+DTSTART:20260810T160000Z
+DTEND:20260810T170000Z
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=5
+SUMMARY:The Wealth Freedom Challenge
+DESCRIPTION:Join our FREE 5-Day Wealth Freedom Challenge to discover time-tested strategies for growing\, protecting\, and maximizing your wealth.\n\nEach day\, from August 10–14\, 2026\, you'll learn key investment principles from Andy Tanner that can help you build lasting financial confidence. Expect practical insights\, actionable steps\, and the inspiration you need to take control of your financial future.
+LOCATION:Check your email for access information.
+END:VEVENT
+END:VCALENDAR
